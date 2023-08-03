@@ -22,7 +22,7 @@ Below is an example of how you can instruct your audience on installing and sett
 
 1. Clone the front-end repo
    ```sh
-   git clone [https://github.com/sergiokano/Desafio-Tripulaciones_Frontend](https://github.com/sergiokano/Movie-search)
+   git clone https://github.com/sergiokano/Movie-search
    ```
 2. Install NPM packages
    ```sh
