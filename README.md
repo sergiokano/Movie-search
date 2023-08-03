@@ -18,27 +18,23 @@ API to use: [OMDb API](https://www.omdbapi.com/). Obtain the API Key on the webs
 
 ## Installation
 
-\_Below is an example of how you can instruct your audience on installing and setting up your app.
+Below is an example of how you can instruct your audience on installing and setting up your app.
 
 1. Clone the front-end repo
    ```sh
-   git clone https://github.com/sergiokano/Desafio-Tripulaciones_Frontend
+   git clone [https://github.com/sergiokano/Desafio-Tripulaciones_Frontend](https://github.com/sergiokano/Movie-search)
    ```
-2. Clone the back-end repo in other folder
-   ```sh
-   git clone https://github.com/sergiokano/Social-Network_React-Redux
-   ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    pnpm i
    ```
-4. Start in front-end
+3. Start in front-end
 
    ```sh
    pnpm run dev
    ```
    
-5. Create .env file in front-end following the .env example
+4. Create .env file in front-end following the .env example
 
 
 ![screencapture-localhost-5173-2023-08-03-12_40_56](https://github.com/sergiokano/Movie-search/assets/113986570/921b251b-4a7b-4b61-bbf9-3c39af37dca1)
