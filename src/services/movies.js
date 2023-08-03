@@ -1,4 +1,6 @@
-const API_KEY = "8e6f3e32";
+const API_KEY = import.meta.env.VITE_APP_API_KEY;
+
+console.log("API Key: ", API_KEY);
 
 export const searchMovies = async ({search}) => {
   if (search === "") return null;
